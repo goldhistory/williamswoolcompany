@@ -1,2 +1,2 @@
 # williamswoolcompany
-williams wool company
+williams wool company is a wool company
